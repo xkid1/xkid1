@@ -1,8 +1,11 @@
 ### Hi there, I'm Elmer [elmeralluad][website] 👋
 
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://elmeralluad.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=vkings_io)
+
 ## I'm a Developer, Marathoner, Trail Runner, and Biker!
 
-- 🔭 I’m currently working on a [Coretex][website]!
+- 🔭 I’m currently working on a [Cortex][cortex]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -51,3 +54,4 @@
 [website]: https://elmeralluad.com
 [twitter]: https://twitter.com/vkings_io
 [linkedin]: https://www.linkedin.com/in/elmer-alluad/
+[cortex]: https://www.cortex.ph/
