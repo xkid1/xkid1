@@ -5,10 +5,7 @@
 
 ## I'm a Developer, Marathoner, Trail Runner, and Biker!
 
-- 🔭 I’m currently working on a [Cortex][cortex]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🌱 learning everything 🤣
 
 <br />
 
@@ -53,4 +50,3 @@
 [website]: https://elmeralluad.com
 [twitter]: https://twitter.com/vkings_io
 [linkedin]: https://www.linkedin.com/in/elmer-alluad/
-[cortex]: https://www.cortex.ph/
