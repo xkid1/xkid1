@@ -45,6 +45,9 @@
 <img align="left" alt="kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/graphql/graphql.png" />
 <img align="left" alt="haproxy" width="26px" src="https://avatars.githubusercontent.com/u/38220289?s=200&v=4" />
 <img align="left" alt="envoy" width="26px" src="https://avatars.githubusercontent.com/u/30125649?s=200&v=4" />
+<img align="left" alt="aws" width="26px" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" />
+<img align="left" alt="digitalocean" width="26px" src="https://avatars.githubusercontent.com/u/4650108?s=200&v=4" />
+<img align="left" alt="azure" width="26px" src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" />
 
 <br />
 
