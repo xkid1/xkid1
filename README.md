@@ -54,6 +54,7 @@
 <img align="left" alt="prisma" width="26px" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" />
 <img align="left" alt="postgress" width="26px" src="https://avatars.githubusercontent.com/u/177543?s=200&v=4" />
 <img align="left" alt="cassandra" width="26px" src="https://raw.githubusercontent.com/github/explore/8b79365c693905ff9adad384ab1534b5ab041cb9/topics/cassandra/cassandra.png" />
+<img align="left" alt="nginx" width="26px" src="https://avatars.githubusercontent.com/u/1412239?s=200&v=4" />
 <br />
 
 [website]: https://elmeralluad.com
