@@ -95,7 +95,7 @@ I'm a **Full Stack Developer** who enjoys building scalable web apps end to end 
 **Backend & Databases**
 
 <p>
-  <picture><img src="https://skillicons.dev/icons?i=nodejs,deno,laravel,graphql,prisma,mysql,postgres,redis,cassandra&perline=11" alt="Backend and Databases" /></picture>
+  <picture><img src="https://skillicons.dev/icons?i=nodejs,deno,laravel,graphql,prisma,sequelize,mysql,postgres,redis,cassandra&perline=11" alt="Backend and Databases" /></picture>
 </p>
 
 **DevOps & Cloud**
