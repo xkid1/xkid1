@@ -138,23 +138,6 @@ I'm a **Full Stack Developer** who enjoys building scalable web apps end to end 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=xkid1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkid1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=xkid1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xkid1&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
