@@ -17,7 +17,7 @@
 
 I'm a **Full Stack Developer** who enjoys building scalable web apps end to end — from pixel-perfect frontends to resilient backends and cloud infrastructure. Outside of code, you'll find me logging miles as a **marathoner**, **trail runner**, and **cyclist**.
 
-- 🔭 Building modern web apps with **Vue / Nuxt**, **React / Next.js**, **Laravel**, and **Node.js**
+- 🔭 Building modern web apps with **Vue / Nuxt**, **React / Next.js**, **Angular**, **Laravel**, and **Node.js**
 - 📱 Developing mobile apps for **Android** and with **React Native**
 - 🤖 Creating **MCP (Model Context Protocol) servers** that connect AI assistants to real tools and data
 - 📦 Authoring and maintaining reusable **open-source libraries**
