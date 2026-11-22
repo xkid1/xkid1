@@ -48,92 +48,94 @@ I'm a **Full Stack Developer** who enjoys building scalable web apps end to end 
 **Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,php,java,cs,c,cpp,rust,bash&perline=11" alt="Languages" />
+  <picture><img src="https://skillicons.dev/icons?i=js,ts,html,php,java,cs,c,cpp,rust,bash&perline=11" alt="Languages" /></picture>
 </p>
 
 **Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,angular&perline=11" alt="Frontend" />
+  <picture><img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,angular&perline=11" alt="Frontend" /></picture>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
+  <picture><img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" /></picture>
 </p>
 
 **Styling & UI Libraries**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=css,sass,tailwind,materialui,bootstrap,styledcomponents&perline=11" alt="Styling and UI" />
+  <picture><img src="https://skillicons.dev/icons?i=css,sass,tailwind,materialui,bootstrap,styledcomponents&perline=11" alt="Styling and UI" /></picture>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
-  <img src="https://img.shields.io/badge/Angular_Material-3F51B5?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Material" />
-  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" alt="Vuetify" />
-  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
-  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI" />
-  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design" />
+  <picture><img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" /></picture>
+  <picture><img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" /></picture>
+  <picture><img src="https://img.shields.io/badge/Angular_Material-3F51B5?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Material" /></picture>
+  <picture><img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" alt="Vuetify" /></picture>
+  <picture><img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" /></picture>
+  <picture><img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI" /></picture>
+  <picture><img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design" /></picture>
 </p>
 
 **Mobile**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,react,kotlin&perline=11" alt="Mobile" />
+  <picture><img src="https://skillicons.dev/icons?i=androidstudio,react,kotlin&perline=11" alt="Mobile" /></picture>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <picture><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /></picture>
+  <picture><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /></picture>
 </p>
 
 **AI & Open Source**
 
 <p>
-  <img src="https://img.shields.io/badge/MCP_Server-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP Server" />
-  <img src="https://img.shields.io/badge/Library_Author-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="Library Author" />
+  <picture><img src="https://img.shields.io/badge/MCP_Server-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP Server" /></picture>
+  <picture><img src="https://img.shields.io/badge/Library_Author-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="Library Author" /></picture>
 </p>
 
 **Backend & Databases**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,deno,laravel,graphql,prisma,mysql,postgres,redis,cassandra&perline=11" alt="Backend and Databases" />
+  <picture><img src="https://skillicons.dev/icons?i=nodejs,deno,laravel,graphql,prisma,mysql,postgres,redis,cassandra&perline=11" alt="Backend and Databases" /></picture>
 </p>
 
 **DevOps & Cloud**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,cloudflare&perline=11" alt="DevOps and Cloud" />
+  <picture><img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,cloudflare&perline=11" alt="DevOps and Cloud" /></picture>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
+  <picture><img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" /></picture>
 </p>
 
 **Linux, Networking & Homelab** 🐧🏠
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,bash,raspberrypi,nginx&perline=11" alt="Linux and Homelab" />
+  <picture><img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,bash,raspberrypi,nginx&perline=11" alt="Linux and Homelab" /></picture>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white" alt="QEMU" />
-  <img src="https://img.shields.io/badge/KVM-CC0000?style=for-the-badge&logo=linux&logoColor=white" alt="KVM" />
-  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
-  <img src="https://img.shields.io/badge/Homelab-2E7D32?style=for-the-badge&logo=homeassistant&logoColor=white" alt="Homelab" />
+  <picture><img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white" alt="QEMU" /></picture>
+  <picture><img src="https://img.shields.io/badge/KVM-CC0000?style=for-the-badge&logo=linux&logoColor=white" alt="KVM" /></picture>
+  <picture><img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" /></picture>
+  <picture><img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" /></picture>
+  <picture><img src="https://img.shields.io/badge/Homelab-2E7D32?style=for-the-badge&logo=homeassistant&logoColor=white" alt="Homelab" /></picture>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/HAProxy-106DA9?style=for-the-badge&logo=haproxy&logoColor=white" alt="HAProxy" />
-  <img src="https://img.shields.io/badge/Envoy-AC6199?style=for-the-badge&logo=envoyproxy&logoColor=white" alt="Envoy" />
-  <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard" />
-  <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white" alt="OpenWrt" />
-  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/iptables%20%2F%20nftables-333333?style=for-the-badge&logo=linux&logoColor=white" alt="iptables / nftables" />
-  <img src="https://img.shields.io/badge/Network_Tuning-0A66C2?style=for-the-badge&logo=speedtest&logoColor=white" alt="Network Tuning" />
+  <picture><img src="https://img.shields.io/badge/HAProxy-106DA9?style=for-the-badge&logo=haproxy&logoColor=white" alt="HAProxy" /></picture>
+  <picture><img src="https://img.shields.io/badge/Envoy-AC6199?style=for-the-badge&logo=envoyproxy&logoColor=white" alt="Envoy" /></picture>
+  <picture><img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard" /></picture>
+  <picture><img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white" alt="OpenVPN" /></picture>
+  <picture><img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white" alt="OpenWrt" /></picture>
+  <picture><img src="https://img.shields.io/badge/Firewall-B22222?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0yIDRoOXY0SDJ6TTEzIDRoOXY0aC05ek0yIDEwaDR2NEgyek04IDEwaDh2NEg4ek0xOCAxMGg0djRoLTR6TTIgMTZoOXY0SDJ6TTEzIDE2aDl2NGgtOXoiLz48L3N2Zz4=" alt="Firewall" /></picture>
+  <picture><img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense" /></picture>
+  <picture><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" /></picture>
+  <picture><img src="https://img.shields.io/badge/iptables%20%2F%20nftables-333333?style=for-the-badge&logo=linux&logoColor=white" alt="iptables / nftables" /></picture>
+  <picture><img src="https://img.shields.io/badge/Network_Tuning-0A66C2?style=for-the-badge&logo=speedtest&logoColor=white" alt="Network Tuning" /></picture>
 </p>
 
 **Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=11" alt="Tools" />
+  <picture><img src="https://skillicons.dev/icons?i=git,github,vscode&perline=11" alt="Tools" /></picture>
 </p>
 
 ---
