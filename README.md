@@ -1,62 +1,168 @@
-### Hi there, I'm Elmer [Full Stack Developer][website] 👋
+<h1 align="center">Hi there, I'm Elmer 👋</h1>
 
-[![Website](https://img.shields.io/website?label=elmeralluad.com&style=for-the-badge&url=https%3A%2F%2Felmeralluad.com)](https://www.elmeralluad.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/vkings_io?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcodevkings_io&screen_name=yxkid1)
+<p align="center">
+  <a href="https://elmeralluad.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Vibe+Coder+%F0%9F%8E%A7%E2%9C%A8;Marathoner+%F0%9F%8F%83+%7C+Trail+Runner+%E2%9B%B0%EF%B8%8F+%7C+Cyclist+%F0%9F%9A%B4;Always+learning+new+tech+%F0%9F%8C%B1" alt="Typing SVG" />
+  </a>
+</p>
 
-## I'm a Developer, Marathoner, Trail Runner, and Cycles!
+<p align="center">
+  <a href="https://www.elmeralluad.com"><img src="https://img.shields.io/website?label=elmeralluad.com&style=for-the-badge&url=https%3A%2F%2Felmeralluad.com" alt="Website" /></a>
+  <a href="https://x.com/intent/follow?screen_name=yxkid1"><img src="https://img.shields.io/badge/Follow_on_X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X" /></a>
+  <a href="https://www.linkedin.com/in/elmer-alluad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a></p>
 
-- 🌱 learning new technology 🤣
+---
 
-<br />
+## 🧑‍💻 About Me
 
-### Connect with me:
+I'm a **Full Stack Developer** who enjoys building scalable web apps end to end — from pixel-perfect frontends to resilient backends and cloud infrastructure. Outside of code, you'll find me logging miles as a **marathoner**, **trail runner**, and **cyclist**.
 
-[<img align="left" alt="elmeralluad.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+- 🔭 Building modern web apps with **Vue / Nuxt**, **React / Next.js**, **Laravel**, and **Node.js**
+- 📱 Developing mobile apps for **Android** and with **React Native**
+- 🤖 Creating **MCP (Model Context Protocol) servers** that connect AI assistants to real tools and data
+- 📦 Authoring and maintaining reusable **open-source libraries**
+- ☁️ Shipping to the cloud with **Docker**, **Kubernetes**, **AWS**, and **Azure**
+- 🐧 Linux enthusiast running a **homelab** on **QEMU/KVM** and **Raspberry Pi** — tinkering with network infrastructure and performance tuning
+- ⚙️ Exploring systems programming with **C / C++** and **Rust** 🦀
+- 🌱 Always learning new technology
+- 🏃 Fun fact: I debug better after a 21K run
 
-<br />
+### 🎧 Full Stack Developer → Vibe Coder
 
-### Languages and Tools:
+```text
+  🧑‍💻 Full Stack Developer          😎 Vibe Coder
+  ─────────────────────────         ─────────────────────────
+  Reads the docs                    Reads the vibes ✨
+  Writes unit tests                 "It works on my machine" 🤷
+  Optimizes the query               Adds another index and prays 🙏
+  Plans the architecture            Prompts the architecture 🤖
+  git commit -m "fix: auth bug"     git commit -m "vibes" 🎧
+```
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="pwa" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/pwa/pwa.png" />
-<img align="left" alt="vue" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/react/react.png" />
-<img align="left" alt="vue" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-<img align="left" alt="laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/laravel/laravel.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />
+> _Frontend, backend, DevOps… and whatever the vibe needs today._ 🎶☕🚀
 
-<img align="left" alt="linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+---
 
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="redis" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/redis/redis.png" />
-<img align="left" alt="typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img align="left" alt="docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
-<img align="left" alt="kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
-<img align="left" alt="kubernetes" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/graphql/graphql.png" />
-<img align="left" alt="haproxy" width="26px" src="https://avatars.githubusercontent.com/u/38220289?s=200&v=4" />
-<img align="left" alt="envoy" width="26px" src="https://avatars.githubusercontent.com/u/30125649?s=200&v=4" />
-<img align="left" alt="aws" width="26px" src="https://avatars.githubusercontent.com/u/2232217?s=200&v=4" />
-<img align="left" alt="digitalocean" width="26px" src="https://avatars.githubusercontent.com/u/4650108?s=200&v=4" />
-<img align="left" alt="azure" width="26px" src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" />
-<img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-<img align="left" alt="nextjs" width="26px" src="https://camo.githubusercontent.com/f21f1fa29dfe5e1d0772b0efe2f43eca2f6dc14f2fede8d9cbef4a3a8210c91d/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6c696768745f6261636b67726f756e642e706e67" />
-<img align="left" alt="nuxt" width="26px" src="https://avatars.githubusercontent.com/u/23360933?s=200&v=4" />
-<img align="left" alt="prisma" width="26px" src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" />
-<img align="left" alt="postgress" width="26px" src="https://avatars.githubusercontent.com/u/177543?s=200&v=4" />
-<img align="left" alt="cassandra" width="26px" src="https://raw.githubusercontent.com/github/explore/8b79365c693905ff9adad384ab1534b5ab041cb9/topics/cassandra/cassandra.png" />
-<img align="left" alt="nginx" width="26px" src="https://avatars.githubusercontent.com/u/1412239?s=200&v=4" />
-<br />
+## 🛠️ Languages & Tools
 
-[website]: https://elmeralluad.com
-[twitter]: https://twitter.com/yxkid1
-[linkedin]: https://www.linkedin.com/in/elmer-alluad/
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,php,java,cs,c,cpp,rust,bash&perline=11" alt="Languages" />
+</p>
+
+**Frontend**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,angular&perline=11" alt="Frontend" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white" alt="PWA" />
+</p>
+
+**Styling & UI Libraries**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=css,sass,tailwind,materialui,bootstrap,styledcomponents&perline=11" alt="Styling and UI" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" alt="Material UI" />
+  <img src="https://img.shields.io/badge/Angular_Material-3F51B5?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Material" />
+  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" alt="Vuetify" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
+  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" alt="Ant Design" />
+</p>
+
+**Mobile**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=androidstudio,react,kotlin&perline=11" alt="Mobile" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+</p>
+
+**AI & Open Source**
+
+<p>
+  <img src="https://img.shields.io/badge/MCP_Server-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" alt="MCP Server" />
+  <img src="https://img.shields.io/badge/Library_Author-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="Library Author" />
+</p>
+
+**Backend & Databases**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,deno,laravel,graphql,prisma,mysql,postgres,redis,cassandra&perline=11" alt="Backend and Databases" />
+</p>
+
+**DevOps & Cloud**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,azure,cloudflare&perline=11" alt="DevOps and Cloud" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean" />
+</p>
+
+**Linux, Networking & Homelab** 🐧🏠
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,arch,bash,raspberrypi,nginx&perline=11" alt="Linux and Homelab" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white" alt="QEMU" />
+  <img src="https://img.shields.io/badge/KVM-CC0000?style=for-the-badge&logo=linux&logoColor=white" alt="KVM" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" alt="Proxmox" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/Homelab-2E7D32?style=for-the-badge&logo=homeassistant&logoColor=white" alt="Homelab" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/HAProxy-106DA9?style=for-the-badge&logo=haproxy&logoColor=white" alt="HAProxy" />
+  <img src="https://img.shields.io/badge/Envoy-AC6199?style=for-the-badge&logo=envoyproxy&logoColor=white" alt="Envoy" />
+  <img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard" />
+  <img src="https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white" alt="OpenWrt" />
+  <img src="https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/iptables%20%2F%20nftables-333333?style=for-the-badge&logo=linux&logoColor=white" alt="iptables / nftables" />
+  <img src="https://img.shields.io/badge/Network_Tuning-0A66C2?style=for-the-badge&logo=speedtest&logoColor=white" alt="Network Tuning" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=11" alt="Tools" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=xkid1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkid1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=xkid1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=xkid1&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://elmeralluad.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://x.com/yxkid1"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.linkedin.com/in/elmer-alluad/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+<p align="center">
+  <i>"Code. Run. Ride. Repeat."</i> 🏃‍♂️🚴‍♂️💻
+</p>
